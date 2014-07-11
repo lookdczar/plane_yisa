@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D62BBF4C196E7A29007605A5 /* YSParallaxSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = D62BBF4B196E7A29007605A5 /* YSParallaxSprite.m */; };
 		D698A8D1196A33C000023563 /* Joystick.m in Sources */ = {isa = PBXBuildFile; fileRef = D698A8D0196A33C000023563 /* Joystick.m */; };
 		D698A8D3196A3B5A00023563 /* stickBase.png in Resources */ = {isa = PBXBuildFile; fileRef = D698A8D2196A3B5A00023563 /* stickBase.png */; };
 		D6B9B8471957F79700A1E36C /* MySceneSec.m in Sources */ = {isa = PBXBuildFile; fileRef = D6B9B8461957F79700A1E36C /* MySceneSec.m */; };
@@ -45,6 +46,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D62BBF4A196E7A29007605A5 /* YSParallaxSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YSParallaxSprite.h; path = YisaShootShare/Sprites/YSParallaxSprite.h; sourceTree = "<group>"; };
+		D62BBF4B196E7A29007605A5 /* YSParallaxSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YSParallaxSprite.m; path = YisaShootShare/Sprites/YSParallaxSprite.m; sourceTree = "<group>"; };
 		D698A8CF196A33C000023563 /* Joystick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Joystick.h; sourceTree = "<group>"; };
 		D698A8D0196A33C000023563 /* Joystick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Joystick.m; sourceTree = "<group>"; };
 		D698A8D2196A3B5A00023563 /* stickBase.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stickBase.png; sourceTree = "<group>"; };
@@ -54,15 +57,15 @@
 		D6B9B87F19624A1500A1E36C /* fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = fire.sks; sourceTree = "<group>"; };
 		D6B9B88019624A1500A1E36C /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
 		D6B9B8831962794000A1E36C /* fireBack.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = fireBack.sks; sourceTree = "<group>"; };
-		D6E71F3A1957CD2900926278 /* 6.23Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 6.23Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6E71F3A1957CD2900926278 /* yisaShoot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yisaShoot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E71F3D1957CD2900926278 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D6E71F3F1957CD2900926278 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		D6E71F411957CD2900926278 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D6E71F431957CD2900926278 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
-		D6E71F471957CD2900926278 /* 6.23Demo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "6.23Demo-Info.plist"; sourceTree = "<group>"; };
+		D6E71F471957CD2900926278 /* yisaShoot-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "yisaShoot-Info.plist"; sourceTree = "<group>"; };
 		D6E71F491957CD2900926278 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D6E71F4B1957CD2900926278 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D6E71F4D1957CD2900926278 /* 6.23Demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "6.23Demo-Prefix.pch"; sourceTree = "<group>"; };
+		D6E71F4D1957CD2900926278 /* yisaShoot-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "yisaShoot-Prefix.pch"; sourceTree = "<group>"; };
 		D6E71F4E1957CD2900926278 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D6E71F4F1957CD2900926278 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D6E71F521957CD2900926278 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -73,9 +76,9 @@
 		D6E71F5B1957CD2900926278 /* MyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
 		D6E71F5D1957CD2900926278 /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		D6E71F5F1957CD2900926278 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D6E71F651957CD2900926278 /* 6.23DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 6.23DemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6E71F651957CD2900926278 /* yisaShootTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yisaShootTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E71F661957CD2900926278 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		D6E71F6E1957CD2900926278 /* 6.23DemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "6.23DemoTests-Info.plist"; sourceTree = "<group>"; };
+		D6E71F6E1957CD2900926278 /* yisaShootTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "yisaShootTests-Info.plist"; sourceTree = "<group>"; };
 		D6E71F701957CD2900926278 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D6E71F721957CD2900926278 /* __23DemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __23DemoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,9 +108,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D62BBF49196E793A007605A5 /* Sprites */ = {
+			isa = PBXGroup;
+			children = (
+				D62BBF4A196E7A29007605A5 /* YSParallaxSprite.h */,
+				D62BBF4B196E7A29007605A5 /* YSParallaxSprite.m */,
+			);
+			name = Sprites;
+			sourceTree = "<group>";
+		};
 		D6E71F311957CD2900926278 = {
 			isa = PBXGroup;
 			children = (
+				D62BBF49196E793A007605A5 /* Sprites */,
 				D6E71F451957CD2900926278 /* 6.23Demo */,
 				D6E71F6C1957CD2900926278 /* 6.23DemoTests */,
 				D6E71F3C1957CD2900926278 /* Frameworks */,
@@ -118,8 +131,8 @@
 		D6E71F3B1957CD2900926278 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D6E71F3A1957CD2900926278 /* 6.23Demo.app */,
-				D6E71F651957CD2900926278 /* 6.23DemoTests.xctest */,
+				D6E71F3A1957CD2900926278 /* yisaShoot.app */,
+				D6E71F651957CD2900926278 /* yisaShootTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -166,10 +179,10 @@
 		D6E71F461957CD2900926278 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D6E71F471957CD2900926278 /* 6.23Demo-Info.plist */,
+				D6E71F471957CD2900926278 /* yisaShoot-Info.plist */,
 				D6E71F481957CD2900926278 /* InfoPlist.strings */,
 				D6E71F4B1957CD2900926278 /* main.m */,
-				D6E71F4D1957CD2900926278 /* 6.23Demo-Prefix.pch */,
+				D6E71F4D1957CD2900926278 /* yisaShoot-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -186,7 +199,7 @@
 		D6E71F6D1957CD2900926278 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D6E71F6E1957CD2900926278 /* 6.23DemoTests-Info.plist */,
+				D6E71F6E1957CD2900926278 /* yisaShootTests-Info.plist */,
 				D6E71F6F1957CD2900926278 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -195,9 +208,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D6E71F391957CD2900926278 /* 6.23Demo */ = {
+		D6E71F391957CD2900926278 /* yisaShoot */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D6E71F761957CD2900926278 /* Build configuration list for PBXNativeTarget "6.23Demo" */;
+			buildConfigurationList = D6E71F761957CD2900926278 /* Build configuration list for PBXNativeTarget "yisaShoot" */;
 			buildPhases = (
 				D6E71F361957CD2900926278 /* Sources */,
 				D6E71F371957CD2900926278 /* Frameworks */,
@@ -207,14 +220,14 @@
 			);
 			dependencies = (
 			);
-			name = 6.23Demo;
+			name = yisaShoot;
 			productName = 6.23Demo;
-			productReference = D6E71F3A1957CD2900926278 /* 6.23Demo.app */;
+			productReference = D6E71F3A1957CD2900926278 /* yisaShoot.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D6E71F641957CD2900926278 /* 6.23DemoTests */ = {
+		D6E71F641957CD2900926278 /* yisaShootTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D6E71F791957CD2900926278 /* Build configuration list for PBXNativeTarget "6.23DemoTests" */;
+			buildConfigurationList = D6E71F791957CD2900926278 /* Build configuration list for PBXNativeTarget "yisaShootTests" */;
 			buildPhases = (
 				D6E71F611957CD2900926278 /* Sources */,
 				D6E71F621957CD2900926278 /* Frameworks */,
@@ -225,9 +238,9 @@
 			dependencies = (
 				D6E71F6B1957CD2900926278 /* PBXTargetDependency */,
 			);
-			name = 6.23DemoTests;
+			name = yisaShootTests;
 			productName = 6.23DemoTests;
-			productReference = D6E71F651957CD2900926278 /* 6.23DemoTests.xctest */;
+			productReference = D6E71F651957CD2900926278 /* yisaShootTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -247,7 +260,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D6E71F351957CD2900926278 /* Build configuration list for PBXProject "6.23Demo" */;
+			buildConfigurationList = D6E71F351957CD2900926278 /* Build configuration list for PBXProject "yisaShoot" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -260,8 +273,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D6E71F391957CD2900926278 /* 6.23Demo */,
-				D6E71F641957CD2900926278 /* 6.23DemoTests */,
+				D6E71F391957CD2900926278 /* yisaShoot */,
+				D6E71F641957CD2900926278 /* yisaShootTests */,
 			);
 		};
 /* End PBXProject section */
@@ -299,6 +312,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D62BBF4C196E7A29007605A5 /* YSParallaxSprite.m in Sources */,
 				D6E71F5C1957CD2900926278 /* MyScene.m in Sources */,
 				D6E71F591957CD2900926278 /* ViewController.m in Sources */,
 				D6E71F501957CD2900926278 /* AppDelegate.m in Sources */,
@@ -321,7 +335,7 @@
 /* Begin PBXTargetDependency section */
 		D6E71F6B1957CD2900926278 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D6E71F391957CD2900926278 /* 6.23Demo */;
+			target = D6E71F391957CD2900926278 /* yisaShoot */;
 			targetProxy = D6E71F6A1957CD2900926278 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -442,10 +456,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "6.23Demo/6.23Demo-Prefix.pch";
-				INFOPLIST_FILE = "6.23Demo/6.23Demo-Info.plist";
+				GCC_PREFIX_HEADER = "6.23Demo/yisaShoot-Prefix.pch";
+				INFOPLIST_FILE = "6.23Demo/yisaShoot-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = yisaShoot;
 				PROVISIONING_PROFILE = "";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
@@ -460,10 +474,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "6.23Demo/6.23Demo-Prefix.pch";
-				INFOPLIST_FILE = "6.23Demo/6.23Demo-Info.plist";
+				GCC_PREFIX_HEADER = "6.23Demo/yisaShoot-Prefix.pch";
+				INFOPLIST_FILE = "6.23Demo/yisaShoot-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = yisaShoot;
 				PROVISIONING_PROFILE = "";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
@@ -485,8 +499,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "6.23DemoTests/6.23DemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "6.23DemoTests/yisaShootTests-Info.plist";
+				PRODUCT_NAME = yisaShootTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -503,8 +517,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "6.23Demo/6.23Demo-Prefix.pch";
-				INFOPLIST_FILE = "6.23DemoTests/6.23DemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "6.23DemoTests/yisaShootTests-Info.plist";
+				PRODUCT_NAME = yisaShootTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -513,7 +527,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D6E71F351957CD2900926278 /* Build configuration list for PBXProject "6.23Demo" */ = {
+		D6E71F351957CD2900926278 /* Build configuration list for PBXProject "yisaShoot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D6E71F741957CD2900926278 /* Debug */,
@@ -522,7 +536,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D6E71F761957CD2900926278 /* Build configuration list for PBXNativeTarget "6.23Demo" */ = {
+		D6E71F761957CD2900926278 /* Build configuration list for PBXNativeTarget "yisaShoot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D6E71F771957CD2900926278 /* Debug */,
@@ -531,7 +545,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D6E71F791957CD2900926278 /* Build configuration list for PBXNativeTarget "6.23DemoTests" */ = {
+		D6E71F791957CD2900926278 /* Build configuration list for PBXNativeTarget "yisaShootTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D6E71F7A1957CD2900926278 /* Debug */,

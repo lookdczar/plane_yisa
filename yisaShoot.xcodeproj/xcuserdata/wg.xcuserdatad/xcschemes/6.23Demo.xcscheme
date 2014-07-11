@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D6E71F391957CD2900926278"
                BuildableName = "6.23Demo.app"
-               BlueprintName = "6.23Demo"
-               ReferencedContainer = "container:6.23Demo.xcodeproj">
+               BlueprintName = "yisaShoot"
+               ReferencedContainer = "container:yisaShoot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D6E71F641957CD2900926278"
                BuildableName = "6.23DemoTests.xctest"
-               BlueprintName = "6.23DemoTests"
-               ReferencedContainer = "container:6.23Demo.xcodeproj">
+               BlueprintName = "yisaShootTests"
+               ReferencedContainer = "container:yisaShoot.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D6E71F391957CD2900926278"
             BuildableName = "6.23Demo.app"
-            BlueprintName = "6.23Demo"
-            ReferencedContainer = "container:6.23Demo.xcodeproj">
+            BlueprintName = "yisaShoot"
+            ReferencedContainer = "container:yisaShoot.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D6E71F391957CD2900926278"
             BuildableName = "6.23Demo.app"
-            BlueprintName = "6.23Demo"
-            ReferencedContainer = "container:6.23Demo.xcodeproj">
+            BlueprintName = "yisaShoot"
+            ReferencedContainer = "container:yisaShoot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D6E71F391957CD2900926278"
             BuildableName = "6.23Demo.app"
-            BlueprintName = "6.23Demo"
-            ReferencedContainer = "container:6.23Demo.xcodeproj">
+            BlueprintName = "yisaShoot"
+            ReferencedContainer = "container:yisaShoot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

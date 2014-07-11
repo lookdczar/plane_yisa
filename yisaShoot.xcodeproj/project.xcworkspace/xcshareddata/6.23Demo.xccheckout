@@ -5,19 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C4A4253F-8006-4F02-92FA-DEEAFA67ACE8</string>
+	<string>1E856526-0F36-4B47-8922-4757D2B62D55</string>
 	<key>IDESourceControlProjectName</key>
 	<string>6.23Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>2FB5B5E3-6A0D-4BCB-A2BF-5365931798EB</key>
 		<string>https://github.com/lookdczar/sprite_plane_demo1.git</string>
+		<key>FAF6AA7E-D6A3-48FB-A0C4-D8240D9029BC</key>
+		<string>https://github.com/lookdczar/plane_yisa.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>6.23Demo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2FB5B5E3-6A0D-4BCB-A2BF-5365931798EB</key>
+		<string>../../..</string>
+		<key>FAF6AA7E-D6A3-48FB-A0C4-D8240D9029BC</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,7 +29,7 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2FB5B5E3-6A0D-4BCB-A2BF-5365931798EB</string>
+	<string>FAF6AA7E-D6A3-48FB-A0C4-D8240D9029BC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -33,6 +37,14 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>2FB5B5E3-6A0D-4BCB-A2BF-5365931798EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>plane_yisa</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FAF6AA7E-D6A3-48FB-A0C4-D8240D9029BC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>plane_yisa</string>
 		</dict>
